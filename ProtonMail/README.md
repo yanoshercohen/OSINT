@@ -2,7 +2,7 @@
 ## By Yan Osher Cohen
 
 ### Requirements
-you will need `re`, `requests` and `datetime` libraries
+you will need `requests` library
 ```
 $ pip install requests
 ```
