@@ -13,5 +13,5 @@ $ python discordate.py
 Enter a Discord user ID and press `Enter`.
 
 ### Legal
-This code is based on an available function at Discord's official API:
-https://discord.com/developers/docs/intro
+Discord utilizes Twitter's snowflake format for uniquely IDs.  
+https://discord.com/developers/docs/reference#snowflakes
