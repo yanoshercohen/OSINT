@@ -4,6 +4,6 @@
 Bunch of free-to-use OSINT tools.  
   
 ```diff
-- All the tools have been legally developed under the terms of service of the companies and their approval.
+- All the tools have been legally developed under the terms of service of the companies.
 ```
 
