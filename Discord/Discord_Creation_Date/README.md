@@ -6,7 +6,7 @@ you will need `Python 3.6` or above
 
 ### Quick start
 ```
-$ python discord_lookup.py
+$ python discordate.py
 ```
 
 ### How to use
